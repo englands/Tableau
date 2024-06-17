@@ -16,5 +16,5 @@ In this course, I learned how to navigate Tableau's interface, connect, and pres
 ### Connecting Data in Tableau - In Progress
   
 ### 📃 Certificate
-- [Introduction to Tableau](DataCamp/Tableau Fundamentals/Introduction to Tableau/introduction-to-tableau-certificate.pdf)
+- [Introduction to Tableau](https://github.com/englands/Tableau/blob/main/DataCamp/Tableau%20Fundamentals/Introduction%20to%20Tableau/introduction-to-tableau-certificate.pdf)
 - Analyzing Data in Tableau
