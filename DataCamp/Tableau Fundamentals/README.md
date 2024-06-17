@@ -15,3 +15,6 @@ In this course, I learned how to navigate Tableau's interface, connect, and pres
 
 ### Connecting Data in Tableau - In Progress
   
+### 📃 Certificate
+- Introduction to Tableau
+- Analyzing Data in Tableau
