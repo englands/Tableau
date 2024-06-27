@@ -10,6 +10,7 @@ This repository contains all the work and assignments I completed from the Table
 In this course, I learned how to navigate Tableau's interface, connect, and present data with easily understandable visualizations. I grasped fundamental concepts, and features, and created various visualizations.
 
 ### Analyzing Data in Tableau
+In this course, I learned about the principles of data visualization, and how to make dashboards interactive and appealing. I used Calculated Fields, created bins, customized filters and interactions, and applied quick table calculations and power user techniques.    
 
 ### Creating Dashboards in Tableau - In Progress
 
