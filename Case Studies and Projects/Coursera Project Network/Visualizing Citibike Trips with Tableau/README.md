@@ -11,6 +11,6 @@ The visualizations created include
 ## [Unpackaged Workbook](https://github.com/englands/Tableau/blob/main/Case%20Studies%20and%20Projects/Coursera%20Project%20Network/Visualizing%20Citibike%20Trips%20with%20Tableau/Citibike-Separate-Compressed.7z) 📔
 Due to the large size of the dataset, I could not upload the Packaged Workbook to Github. 
 
-## [Certificate of Completion](https://github.com/englands/Tableau/blob/main/Case%20Studies%20and%20Projects/Coursera%20Project%20Network/Visualizing%20Citibike%20Trips%20with%20Tableau/Coursera%20Visualizing%20Citibike%20Trips.pdf) 📜
+## [Project Certificate](https://github.com/englands/Tableau/blob/main/Case%20Studies%20and%20Projects/Coursera%20Project%20Network/Visualizing%20Citibike%20Trips%20with%20Tableau/Visualizing%20Citibike%20Trips%20Project%20Certificate.pdf) 📜
 
 
