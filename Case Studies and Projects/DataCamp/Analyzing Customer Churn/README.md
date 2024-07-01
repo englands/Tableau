@@ -9,7 +9,7 @@ The visualizations created include
 - Four dashboards highlighting trends
 - A story encapsulating the most pressing insights
 
-## [Packaged Workbook]()
+## [Packaged Workbook](https://github.com/englands/Tableau/blob/main/Case%20Studies%20and%20Projects/DataCamp/Analyzing%20Customer%20Churn/Analyzing%20Customer%20Churn.twbx)
 
 ## [Certificate of Completion]() 📜
 
