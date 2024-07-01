@@ -18,5 +18,5 @@ In this course, I learned about the principles of data visualization, and how to
   
 ### 📃 Statements of Accomplishment
 - [Introduction to Tableau](https://github.com/englands/Tableau/blob/main/DataCamp/Tableau%20Fundamentals/Statements%20of%20Accomplishment/1.%20Introduction%20to%20Tableau%20Statement%20of%20Accomplishment.pdf)
-- [Analyzing Data in Tableau](https://github.com/englands/Tableau/blob/main/DataCamp/Tableau%20Fundamentals/Analyzing%20Data%20in%20Tableau/Certificate/analyzing-data-tableaucertificate.pdf)
+- [Analyzing Data in Tableau](https://github.com/englands/Tableau/blob/main/DataCamp/Tableau%20Fundamentals/Statements%20of%20Accomplishment/2.%20Analyzing%20Data%20in%20Tableau%20Statement%20of%20Accomplishment.pdf)
 - [Creating Dashboards in Tableau](https://github.com/englands/Tableau/blob/main/DataCamp/Tableau%20Fundamentals/Creating%20Dashboards%20in%20Tableau/Certificate/creating-dashboards-in-tableau-certificate.pdf)
