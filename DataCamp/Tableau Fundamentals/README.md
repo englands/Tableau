@@ -16,7 +16,7 @@ In this course, I learned about the principles of data visualization, and how to
 
 ### Connecting Data in Tableau - In Progress
   
-### 📃 Certificate
+### 📃 Statements of Accomplishment
 - [Introduction to Tableau](https://github.com/englands/Tableau/blob/main/DataCamp/Tableau%20Fundamentals/Introduction%20to%20Tableau/introduction-to-tableau-certificate.pdf)
 - [Analyzing Data in Tableau](https://github.com/englands/Tableau/blob/main/DataCamp/Tableau%20Fundamentals/Analyzing%20Data%20in%20Tableau/Certificate/analyzing-data-tableaucertificate.pdf)
 - [Creating Dashboards in Tableau](https://github.com/englands/Tableau/blob/main/DataCamp/Tableau%20Fundamentals/Creating%20Dashboards%20in%20Tableau/Certificate/creating-dashboards-in-tableau-certificate.pdf)
