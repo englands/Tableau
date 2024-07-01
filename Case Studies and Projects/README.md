@@ -4,4 +4,4 @@ While enhancing my Tableau skills, I have been working on various Case Studies a
 
 ## Coursera 
 
-## # <img src="https://cdn.simpleicons.org/tableau/000/fff" alt="Tableau Logo" width=70> DataCamp
+## <img src="https://cdn.simpleicons.org/datacamp/000/fff" alt="Tableau Logo" width=70> DataCamp
