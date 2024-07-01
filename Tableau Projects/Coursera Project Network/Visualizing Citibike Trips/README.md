@@ -11,5 +11,5 @@ The visualizations created include
 ## Packaged Workbook 📔
 
 
-## [Certificate of Completion](https://github.com/englands/Tableau/blob/main/Coursera%20Project%20Network/Visualizing%20Citibike%20Trips/Coursera%20Visualizing%20Citibike%20Trips.pdf) ✔️
+## [Certificate of Completion](https://github.com/englands/Tableau/blob/main/Tableau%20Projects/Coursera%20Project%20Network/Visualizing%20Citibike%20Trips/Coursera%20Visualizing%20Citibike%20Trips.pdf) ✔️
 
