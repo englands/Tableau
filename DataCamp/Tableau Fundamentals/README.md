@@ -12,7 +12,7 @@ In this course, I learned how to navigate Tableau's interface, connect, and pres
 ### Analyzing Data in Tableau
 In this course, I learned about the principles of data visualization, and how to make dashboards interactive and appealing. I used Calculated Fields, created bins, customized filters and interactions, and applied quick table calculations and power user techniques.    
 
-### Creating Dashboards in Tableau - In Progress
+### Creating Dashboards in Tableau
 
 ### Connecting Data in Tableau - In Progress
   
