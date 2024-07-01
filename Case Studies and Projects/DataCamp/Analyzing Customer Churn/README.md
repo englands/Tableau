@@ -11,7 +11,7 @@ The visualizations created include
 
 ## [Packaged Workbook](https://github.com/englands/Tableau/blob/main/Case%20Studies%20and%20Projects/DataCamp/Analyzing%20Customer%20Churn/Analyzing%20Customer%20Churn.twbx) 📔
 
-## [Certificate of Completion]() 📜
+## [Statement of Accomplishment](https://github.com/englands/Tableau/blob/main/Case%20Studies%20and%20Projects/DataCamp/Analyzing%20Customer%20Churn/Analyzing%20Customer%20Churn%20Statement%20of%20Accomplishment.pdf) 📜
 
 
 
