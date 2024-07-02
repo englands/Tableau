@@ -1,4 +1,7 @@
-## Overview: DataCamp Tableau Fundamentals
+<center>
+  ## Overview: DataCamp Tableau Fundamentals
+</center>
+
 This repository contains all the work and assignments I completed from the Tableau Fundamentals Skills Track, which includes the following courses:
 
 - Introduction to Tableau
