@@ -13,8 +13,10 @@ In this course, I learned how to navigate Tableau's interface, connect, and pres
 In this course, I learned about the principles of data visualization, and how to make dashboards interactive and appealing. I used Calculated Fields, created bins, customized filters and interactions, and applied quick table calculations and power user techniques.    
 
 ### Creating Dashboards in Tableau
+In this course, I learned best practices for creating dashboards, and how to make dashboards interactive. I added explanatory elements, modified dashboard layouts for mobile devices, and downloaded images as PDFs.
 
-### Connecting Data in Tableau - In Progress
+### Connecting Data in Tableau
+In the final course of the Skills Track, I created connections to CSV and Excel files. I learned about connectors, and how to combine multiple tables with joins, unions, and relationships. I also learned about different data properties like renaming data fields, creating aliases, changing data types, and changing default properties for a data field.
   
 ### 📃 Statements of Accomplishment
 - [Introduction to Tableau](https://github.com/englands/Tableau/blob/main/DataCamp/Tableau%20Fundamentals/Statements%20of%20Accomplishment/1.%20Introduction%20to%20Tableau%20Statement%20of%20Accomplishment.pdf)
