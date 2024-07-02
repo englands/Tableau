@@ -22,6 +22,6 @@ In the final course of the Skills Track, I created connections to CSV and Excel 
 - [Introduction to Tableau](https://github.com/englands/Tableau/blob/main/DataCamp/Tableau%20Fundamentals/Statements%20of%20Accomplishment/1.%20Introduction%20to%20Tableau%20Statement%20of%20Accomplishment.pdf)
 - [Analyzing Data in Tableau](https://github.com/englands/Tableau/blob/main/DataCamp/Tableau%20Fundamentals/Statements%20of%20Accomplishment/2.%20Analyzing%20Data%20in%20Tableau%20Statement%20of%20Accomplishment.pdf)
 - [Creating Dashboards in Tableau](https://github.com/englands/Tableau/blob/main/DataCamp/Tableau%20Fundamentals/Statements%20of%20Accomplishment/3.%20Creating%20Dashboards%20in%20Tableau%20Statement%20of%20Accomplishment.pdf)
-- [Connecting Data in Tableau]()
+- [Connecting Data in Tableau](https://github.com/englands/Tableau/blob/main/DataCamp/Tableau%20Fundamentals/Statements%20of%20Accomplishment/4.%20Connecting%20Data%20in%20Tableau.pdf)
 
 ## View my Statement of accomplishment [here](https://github.com/englands/Tableau/blob/main/DataCamp/Tableau%20Fundamentals/Statements%20of%20Accomplishment/Tableau%20Fundamentals%20Statement%20of%20Accomplishment.pdf)!
