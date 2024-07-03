@@ -12,3 +12,7 @@ On DataCamp, many of the Skills and Career Tracks have case studies for learners
 
 ## DataQuest
 Coming Soon!
+
+## Udemy
+Udemy has 20 projects that allow users to have projects for their portfolio. I have completed the following projects from Udemy in Tableau.
+- AirBnBs in Seattle: Rental Market Analysis
