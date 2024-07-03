@@ -1,7 +1,7 @@
   ## <center> Overview: DataCamp Tableau Fundamentals </center>
 
 <p align=center>
-  <img src="https://github.com/englands/Tableau/blob/main/DataCamp/Tableau%20Fundamentals/tableau-fundamentals.png" alt="Tableau Fundamentals Track Completed" width=40%>
+  <img src="https://github.com/englands/Tableau/blob/main/DataCamp/Tableau%20Fundamentals/tableau-fundamentals.png" alt="Tableau Fundamentals Track Completed" width=35%>
 </p>
 
 This repository contains the certificates I earned from the Tableau Fundamentals Skills Track, which includes the following courses:
