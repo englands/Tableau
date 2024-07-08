@@ -15,4 +15,4 @@ Coming Soon!
 
 ## Udemy
 Udemy has 20 projects that allow users to have projects for their portfolio. I have completed the following projects from Udemy in Tableau.
-- AirBnBs in Seattle: Rental Market Analysis
+- [AirBnBs in Seattle: Rental Market Analysis](https://github.com/englands/Tableau/tree/main/Case%20Studies%20and%20Projects/Udemy/AirBnBs%20in%20Seattle%3A%20Rental%20Market%20Analysis)
