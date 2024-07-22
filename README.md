@@ -1,5 +1,5 @@
 # Tableau Repository 
-![Salesforce Tableau Logo](https://github.com/englands/Tableau/blob/main/tableau%20(2).svg)
+<img src="https://cdn.simpleicons.org/tableau/000/fff" alt="Salesforce Tableau Logo" width=70>
 
 This repository demonstrates my learning journey with [Tableau](https://www.tableau.com/), one of the world's leading business intelligence platforms. I first learned of Tableau during my undergraduate years at the University of South Florida (Go Bulls! 🤘). I was immersed in Tableau through the Citizen Data Science Program, where I used Tableau in many of my classes at the Muma College of Business.
 
