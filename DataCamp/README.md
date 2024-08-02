@@ -1,2 +1,2 @@
-# <img src="https://cdn.simpleicons.org/datacamp/#03EF62" alt="Datacamp Logo" width=70> DataCamp Tableau
+# DataCamp Tableau <img src="https://cdn.simpleicons.org/datacamp/#03EF62" alt="Datacamp Logo" width=70 align=right> 
 I am learning more about Tableau in preparation for the Desktop Specialist Exam. I am using DataCamp to fill in knowledge gaps from the Tableau Data Science Certificate program offered by the University of South Florida. I am using the Tableau Fundamentals Track from DataCamp as well as the other Tableau Track to help prepare for the test and to provide more practice with the software. 
