@@ -9,7 +9,7 @@ The visualizations created include:
 - Bar chart displaying price by zip code
 - Line graph demonstrating revenue over the year
 
-## [Packaged Workbook] 📔
+## [Packaged Workbook](https://github.com/englands/Tableau/blob/main/Case%20Studies%20and%20Projects/Udemy/AirBnBs%20in%20Seattle%3A%20Rental%20Market%20Analysis/Market%20Retail%20Analysis%20Seattle.twbx) 📔
 
 
 
