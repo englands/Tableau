@@ -1,4 +1,4 @@
-# Citizen Data Science Certificate @ University of South Florida <img src="https://gistcdn.githack.com/englands/084f8497793f4f5c0742686e94f507b6/raw/38009343f55b57deb2e12ed0b7573b73ac170a4b/usflogo.svg" width=115 align=right>           
+# Citizen Data Science Certificate @ University of South Florida <img src="https://gistcdn.githack.com/englands/084f8497793f4f5c0742686e94f507b6/raw/38009343f55b57deb2e12ed0b7573b73ac170a4b/usflogo.svg" width=105 align=right>           
 The [Tableau Citizen Data Science Certificate](https://www.usf.edu/business/centers/analytics-creativity/tableau-citizen-data-science-certificate.aspx) is for any Muma College of Business student at the University of South Florida. To complete the certification requirements, students must create Tableau workbooks as well as present that information. As a recent graduate of the University of South Florida, I received this certificate upon completion of the final capstone course 🎓. 
 
 ## Courses With Citizen Data Science Components
