@@ -9,5 +9,5 @@ I am a certified [Tableau Desktop Specialist Exam](https://www.tableau.com/learn
 </p>
 
 <p align="center">
-<kbd> <br> [Certificate](href="https://github.com/englands/Tableau/blob/main/Tableau%20Desktop%20Specialist%20Certificate") <br> </kbd>
+[Certificate]: https://github.com/englands/Tableau/blob/main/Tableau%20Desktop%20Specialist%20Certificate
 </p>
