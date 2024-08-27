@@ -4,4 +4,4 @@ This repository demonstrates my learning journey with [Tableau](https://www.tabl
 
 I am a certified [Tableau Desktop Specialist Exam](https://www.tableau.com/learn/certification/desktop-specialist), where I used DataCamp, SkillCertPro, and Udemy to fill any knowledge gaps from my initial Citizen Data Science Certificate program and to ensure that I am confident in my Tableau abilities before the exam. I also have separate Tableau projects that I have completed from various sources, including Coursera.
 
-https://www.credly.com/badges/6748ac2b-ce90-4187-ad98-1ccf3546f67f/public_url
+<img src="https://www.credly.com/badges/6748ac2b-ce90-4187-ad98-1ccf3546f67f/public_url">
