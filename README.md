@@ -10,6 +10,6 @@ I am a certified [Tableau Desktop Specialist Exam](https://www.tableau.com/learn
 
 
   <h2 align="center">
-<a href="https://github.com/englands/Tableau/blob/main/Tableau%20Desktop%20Specialist%20Certificate.pdf" class="button icon search">Certificate</a>
+<a href="https://github.com/englands/Tableau/blob/main/Tableau%20Desktop%20Specialist%20Certificate.pdf" class="button icon certificate">Certificate</a>
   </h2>
 
