@@ -6,7 +6,7 @@ The visualizations created include:
 - Key Performance Indicators (including the numbers and combination charts) of total accidents, casualties, fatal casualties, serious casualties, and slight casualties
 -  Table highlighting the number of accidents occurring by vehicle type
 -  Pie Chart highlighting serious casualty by weather
--  Pie CHart highlighting serious casualties by road surface type
+-  Pie Chart highlighting serious casualties by road surface type
 -  Bar chart highlighting serious casualty by road type
 -  Map showcasing the number of casualties and vehicles involved in accidents per district area
 
