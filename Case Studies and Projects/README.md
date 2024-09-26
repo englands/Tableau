@@ -2,7 +2,7 @@
 
 While enhancing my Tableau skills, I have been working on various Case Studies and Projects, including from Coursera and DataCamp. Below are the following case studies and projects that I have completed.
 
-## Coursera <img src="https://github.com/englands/Tableau/blob/38a15db4471d8f00d2d43b92e3f61bc804983337/Case%20Studies%20and%20Projects/Logos/coursera-color.svg" alt="Coursera logo" align=right>
+## Coursera <img src="https://github.com/englands/Tableau/blob/38a15db4471d8f00d2d43b92e3f61bc804983337/Case%20Studies%20and%20Projects/Logos/coursera-color.svg" alt="Coursera logo" width=70 align=right>
 On Coursera, I have completed projects using the Project Network. I have completed the following projects on Coursera.
 - [Visualizing Citibike Trips with Tableau](https://github.com/englands/Tableau/tree/main/Case%20Studies%20and%20Projects/Coursera%20Project%20Network/Visualizing%20Citibike%20Trips%20with%20Tableau)
 
