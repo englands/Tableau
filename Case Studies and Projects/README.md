@@ -6,7 +6,7 @@ While enhancing my Tableau skills, I have been working on various Case Studies a
 On Coursera, I have completed projects using the Project Network. I have completed the following projects on Coursera.
 - [Visualizing Citibike Trips with Tableau](https://github.com/englands/Tableau/tree/main/Case%20Studies%20and%20Projects/Coursera%20Project%20Network/Visualizing%20Citibike%20Trips%20with%20Tableau)
 
-## DataCamp <img src="[https://cdn.simpleicons.org/datacamp/#03EF62](https://github.com/englands/Tableau/blob/fc630d9f0f02ff02232df12893d9971db6d8aa44/Case%20Studies%20and%20Projects/Logos/datacamp-color.svg)" alt="Datacamp Logo" width=70 align=right>
+## DataCamp <img src="https://github.com/englands/Tableau/blob/fc630d9f0f02ff02232df12893d9971db6d8aa44/Case%20Studies%20and%20Projects/Logos/datacamp-color.svg" alt="Datacamp Logo" width=70 align=right>
 On DataCamp, many of the Skills and Career Tracks have case studies for learners to complete. I have completed the following case studies in DataCamp.
 - [Analyzing Customer Churn in Tableau](https://github.com/englands/Tableau/tree/main/Case%20Studies%20and%20Projects/DataCamp/Analyzing%20Customer%20Churn)
 
