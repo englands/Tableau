@@ -18,3 +18,4 @@ Udemy has 20 projects that allow users to have projects for their portfolio. I h
 - [AirBnBs in Seattle: Rental Market Analysis](https://github.com/englands/Tableau/tree/main/Case%20Studies%20and%20Projects/Udemy/AirBnBs%20in%20Seattle%3A%20Rental%20Market%20Analysis)
 - [New Year's Eve Social Media Analysis](https://github.com/englands/Tableau/tree/main/Case%20Studies%20and%20Projects/Udemy/New%20Year's%20Eve%20Social%20Media%20Analysis)
 - [Road Accidents in the UK: Safety Analysis]()
+- [E-Commerce Sales: Sales Optimization]
