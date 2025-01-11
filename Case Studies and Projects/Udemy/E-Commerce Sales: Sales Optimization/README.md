@@ -8,4 +8,4 @@ The visualizations created include:
 - Bar Chart visualizing Sales by Category
 - Bubble Chart visualizing Acquisition of Customers by Market
 
-## [Packaged Workbook](https://github.com/englands/Tableau/blob/main/Case%20Studies%20and%20Projects/Udemy/E-Commerce%20Sales%3A%20Sales%20Optimization/ECommerce%20Sales.twbx)
+## [Packaged Workbook](https://github.com/englands/Tableau/blob/main/Case%20Studies%20and%20Projects/Udemy/E-Commerce%20Sales%3A%20Sales%20Optimization/ECommerce%20Sales.twbx) 📔
