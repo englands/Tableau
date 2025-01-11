@@ -16,3 +16,4 @@ Udemy has 20 projects that allow users to have projects for their portfolio. I h
 - [New Year's Eve Social Media Analysis](https://github.com/englands/Tableau/tree/main/Case%20Studies%20and%20Projects/Udemy/New%20Year's%20Eve%20Social%20Media%20Analysis)
 - [Road Accidents in the UK: Safety Analysis](https://github.com/englands/Tableau/tree/main/Case%20Studies%20and%20Projects/Udemy/Road%20Accidents%20in%20the%20UK%3A%20Safety%20Analysis)
 - [E-Commerce Sales: Sales Optimization](https://github.com/englands/Tableau/tree/main/Case%20Studies%20and%20Projects/Udemy/E-Commerce%20Sales%3A%20Sales%20Optimization)
+- [Superstore Sales: Retail Analysis](https://github.com/englands/Tableau/tree/main/Case%20Studies%20and%20Projects/Udemy/Superstore%20Sales%3A%20Retail%20Analysis)
