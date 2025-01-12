@@ -9,4 +9,4 @@ The following visualizations were created for the project:
 - Area Graph visualizing the daily sales between April and May 2012
 - Table listing the Top 10 Customers by total sales
 
-[Packaged Workbook](https://github.com/englands/Tableau/blob/main/Case%20Studies%20and%20Projects/Udemy/Superstore%20Sales%3A%20Retail%20Analysis/Superstore%20Sales%20Retail%20Analysis.twbx) 📔
+## [Packaged Workbook](https://github.com/englands/Tableau/blob/main/Case%20Studies%20and%20Projects/Udemy/Superstore%20Sales%3A%20Retail%20Analysis/Superstore%20Sales%20Retail%20Analysis.twbx) 📔
