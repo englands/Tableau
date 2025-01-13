@@ -11,3 +11,5 @@ The visualizations created include:
 -  Map showcasing the number of casualties and vehicles involved in accidents per district area
 
 ## [Packaged Workbook](https://github.com/englands/Tableau/blob/main/Case%20Studies%20and%20Projects/Udemy/Road%20Accidents%20in%20the%20UK%3A%20Safety%20Analysis/Accident%20Analysis.twbx) 📔
+
+## [Dashboard](https://github.com/englands/Tableau/blob/main/Case%20Studies%20and%20Projects/Udemy/Road%20Accidents%20in%20the%20UK%3A%20Safety%20Analysis/Road%20Accidents%20in%20the%20UK%20Safety%20Analysis%20Dashboard.png) 📔
