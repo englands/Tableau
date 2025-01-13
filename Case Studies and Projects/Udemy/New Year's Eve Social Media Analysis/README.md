@@ -10,3 +10,5 @@ The visualizations created include:
 - Bar chart showing count of tweets per category
 
 ## [Packaged Workbook](https://github.com/englands/Tableau/blob/main/Case%20Studies%20and%20Projects/Udemy/New%20Year's%20Eve%20Social%20Media%20Analysis/Social%20Media%20Analysis.twbx) 📔
+
+## [Dashboard](https://github.com/englands/Tableau/blob/main/Case%20Studies%20and%20Projects/Udemy/New%20Year's%20Eve%20Social%20Media%20Analysis/New%20Year's%20Eve%20Social%20Media%20Analysis%20Dashboard.png) 📔
