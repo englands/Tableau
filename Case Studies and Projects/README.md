@@ -18,3 +18,4 @@ Udemy has 20 projects that allow users to have projects for their portfolio. I h
 - [E-Commerce Sales: Sales Optimization](https://github.com/englands/Tableau/tree/main/Case%20Studies%20and%20Projects/Udemy/E-Commerce%20Sales%3A%20Sales%20Optimization)
 - [Superstore Sales: Retail Analysis](https://github.com/englands/Tableau/tree/main/Case%20Studies%20and%20Projects/Udemy/Superstore%20Sales%3A%20Retail%20Analysis)
 - [Credit Card Complaints: Customer Feedback Analysis](https://github.com/englands/Tableau/tree/main/Case%20Studies%20and%20Projects/Udemy/Credit%20Card%20Complaints%3A%20Customer%20Feedback%20Analysis)
+- [Data Science Careers: Job Market Trends](https://github.com/englands/Tableau/tree/main/Case%20Studies%20and%20Projects/Udemy/Data%20Science%20Careers%3A%20Job%20Market%20Trends)
