@@ -11,5 +11,7 @@ The visualizations created include:
 
 ## [Packaged Workbook](https://github.com/englands/Tableau/blob/main/Case%20Studies%20and%20Projects/Udemy/AirBnBs%20in%20Seattle%3A%20Rental%20Market%20Analysis/Market%20Retail%20Analysis%20Seattle.twbx) 📔
 
+## [Dashboard](https://github.com/englands/Tableau/blob/main/Case%20Studies%20and%20Projects/Udemy/AirBnBs%20in%20Seattle%3A%20Rental%20Market%20Analysis/AirBnBs%20in%20Seattle%20Retail%20Market%20Analysis%20Dashboard.png) 📔
+
 
 
