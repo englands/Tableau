@@ -10,3 +10,5 @@ The following visualizations were created for the project:
 - Table listing the Top 10 Customers by total sales
 
 ## [Packaged Workbook](https://github.com/englands/Tableau/blob/main/Case%20Studies%20and%20Projects/Udemy/Superstore%20Sales%3A%20Retail%20Analysis/Superstore%20Sales%20Retail%20Analysis.twbx) 📔
+
+## [Dashboard](https://github.com/englands/Tableau/blob/main/Case%20Studies%20and%20Projects/Udemy/Road%20Accidents%20in%20the%20UK%3A%20Safety%20Analysis/Road%20Accidents%20in%20the%20UK%20Safety%20Analysis%20Dashboard.png) 📔
