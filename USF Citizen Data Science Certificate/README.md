@@ -3,17 +3,17 @@ The [Tableau Citizen Data Science Certificate](https://www.usf.edu/business/cent
 
 ## Courses With Citizen Data Science Components
 ### Core Courses
-- [ACG 2021](https://usfweb.usf.edu/academic-programs/details/prefix/ACG/code/2021): Principles of Financial Accounting
-- [CGS 2100](https://usfweb.usf.edu/academic-programs/details/prefix/CGS/code/2100): Computers in Business
-- [ISM 3011](https://usfweb.usf.edu/academic-programs/details/prefix/ISM/code/3011): Information Systems in Organizations
+- [ACG 2021](https://github.com/englands/Tableau/tree/main/USF%20Citizen%20Data%20Science%20Certificate/Courses/ACG%202021): [Principles of Financial Accounting](https://usfweb.usf.edu/academic-programs/details/prefix/ACG/code/2021)
+- [CGS 2100](https://github.com/englands/Tableau/tree/main/USF%20Citizen%20Data%20Science%20Certificate/Courses/CGS%202100): [Computers in Business](https://usfweb.usf.edu/academic-programs/details/prefix/CGS/code/2100)
+- [ISM 3011](https://github.com/englands/Tableau/tree/main/USF%20Citizen%20Data%20Science%20Certificate/Courses/ISM%203011): [Information Systems in Organizations](https://usfweb.usf.edu/academic-programs/details/prefix/ISM/code/3011)
 
 ### Business Analytics and Information Systems
-- [ISM 3232](https://usfweb.usf.edu/academic-programs/details/prefix/ISM/code/3232): Business Application Development
+- [ISM 3232](https://github.com/englands/Tableau/tree/main/USF%20Citizen%20Data%20Science%20Certificate/Courses/ISM%203232): [Business Application Development](https://usfweb.usf.edu/academic-programs/details/prefix/ISM/code/3232)
   
 ### Management
-- [MAN 3301](https://usfweb.usf.edu/academic-programs/details/prefix/MAN/code/3301): Human Resource Management
+- [MAN 3301](https://github.com/englands/Tableau/tree/main/USF%20Citizen%20Data%20Science%20Certificate/Courses/MAN%203301): [Human Resource Management](https://usfweb.usf.edu/academic-programs/details/prefix/MAN/code/3301)
   
 ### Capstone Course
-- [GEB 4890](https://cloud.usf.edu/academic-programs/details/prefix/GEB/code/4890): Strategic  Management / Executive Decision Making
+- [GEB 4890](https://github.com/englands/Tableau/tree/main/USF%20Citizen%20Data%20Science%20Certificate/Courses/GEB%204890): [Strategic  Management / Executive Decision Making](https://cloud.usf.edu/academic-programs/details/prefix/GEB/code/4890)
 
-Each folder contains the data source and the subsequent Tableau workbook with the visualizations.
+Each course number has the link to its respective folder containing the Tableau packaged workbook and .png of the final dashboard and each course title has the link to the course description on the USF website.
