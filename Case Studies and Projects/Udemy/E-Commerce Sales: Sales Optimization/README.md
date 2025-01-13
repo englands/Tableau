@@ -9,3 +9,5 @@ The visualizations created include:
 - Bubble Chart visualizing Acquisition of Customers by Market
 
 ## [Packaged Workbook](https://github.com/englands/Tableau/blob/main/Case%20Studies%20and%20Projects/Udemy/E-Commerce%20Sales%3A%20Sales%20Optimization/ECommerce%20Sales.twbx) 📔
+
+## [Dashboard](https://github.com/englands/Tableau/blob/main/Case%20Studies%20and%20Projects/Udemy/E-Commerce%20Sales%3A%20Sales%20Optimization/E-Commerce%20Sales%20Sales%20Optimization%20Dashboard.png) 📔
