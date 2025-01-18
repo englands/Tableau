@@ -8,4 +8,4 @@ The following visualizations were created for this project:
 
 ## [Packaged Workbook](https://github.com/englands/Tableau/blob/main/Case%20Studies%20and%20Projects/Udemy/Amazon%20Prime%20Streaming%20Insights/Amazon%20Prime%20Streaming%20Insights.twbx) 📔
 
-## [Dashboard]() 📔
+## [Dashboard](https://github.com/englands/Tableau/blob/main/Case%20Studies%20and%20Projects/Udemy/Amazon%20Prime%20Streaming%20Insights/Amazon%20Prime%20Streaming%20Insights%20Dashboard.png) 📔
