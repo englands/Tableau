@@ -20,3 +20,4 @@ Udemy has 20 projects that allow users to have projects for their portfolio. I h
 - [Credit Card Complaints: Customer Feedback Analysis](https://github.com/englands/Tableau/tree/main/Case%20Studies%20and%20Projects/Udemy/Credit%20Card%20Complaints%3A%20Customer%20Feedback%20Analysis)
 - [Data Science Careers: Job Market Trends](https://github.com/englands/Tableau/tree/main/Case%20Studies%20and%20Projects/Udemy/Data%20Science%20Careers%3A%20Job%20Market%20Trends)
 - [Amazon Prime Streaming Insights](https://github.com/englands/Tableau/tree/main/Case%20Studies%20and%20Projects/Udemy/Amazon%20Prime%20Streaming%20Insights)
+- [Traffic Collisions in Seattle: Safety and Traffic Analysis](https://github.com/englands/Tableau/tree/main/Case%20Studies%20and%20Projects/Udemy/Traffic%20Collisions%20in%20Seattle%3A%20Safety%20and%20Traffic%20Analysis)
